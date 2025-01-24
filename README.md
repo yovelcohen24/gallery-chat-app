@@ -5,7 +5,7 @@ This application allows users to:
 1. Browse a gallery of pictures.
 2. View details and participate in a live chat about a specific picture.
 3. Fetch the gallery data dynamically from the backend using an HTTP client.
-4. Display image information on mouse hover (bonus task).
+4. Display image information on mouse hover .
 
 # frontend
 
